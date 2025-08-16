@@ -1,0 +1,8 @@
+print("Enter matricnumber")
+matricnumber=input()
+print("Enter schoolname")
+schoolname=input()
+print("Enter schoolemail")
+schoolemail=input()
+print("Enter studentname")
+studentname=input()
